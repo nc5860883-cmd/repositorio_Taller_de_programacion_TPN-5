@@ -1,6 +1,7 @@
-# Trabajo Práctico N°5 - Programación
-Este repositorio está destinado a las prácticas de Git y GitHub de la cursada.
-Contiene la descripción de la carpeta `.git` y su rol en el control de versiones.
-Se incluyen además las configuraciones iniciales realizadas en el entorno local.
+# Trabajo Práctico N°5 - Git y GitHub
+En este repositorio creado para el TP°5 de taller de programación veremos el uso de git y para poner en práctica el uso de GitHub.
+Aquí se guardara la informacion de la carpeta .git y sus cambios.
+Sirve para aprender como se manejan las versiones y configuraciones.
+
 # Carpeta .git
 Su función es almacenar la información del repositorio, como los cambios y configuraciones.
