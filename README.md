@@ -7,3 +7,5 @@ Esto sirve para aprender como se manejan las versiones y configuraciones.
 
 # Carpeta '.git'
 Su función es almacenar la información del repositorio, como los cambios y configuraciones.
+
+Edición desde GitHub
